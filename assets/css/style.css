@@ -1,0 +1,55 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-family: 'Rajdhani', sans-serif;
+	
+
+}
+
+.carousel{
+    background-color: rgba(247, 4, 4, 0.315);
+}
+/**********************/
+.container{
+    margin-bottom: 100px;
+}
+/*=============*/
+.navbar-brand img{
+    width: 200px;
+}
+.nav-link{
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #e22121;
+}
+
+/*=======Button=========*/
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #1487aa8f 0%, #eb13ff86 100%);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+/****************/
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 1px;
+}
+
+.categories  img{
+     width: 100px;
+}
