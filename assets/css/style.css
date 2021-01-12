@@ -4,12 +4,6 @@
 }
 body{
 	font-family: 'Rajdhani', sans-serif;
-	
-
-}
-
-.carousel{
-    background-color: rgba(247, 4, 4, 0.315);
 }
 /**********************/
 .container{
@@ -23,8 +17,8 @@ body{
 	font-weight: 600;
 	letter-spacing: 1px;
 }
-.orange-bg{
-    background-color: #fceae8;
+.bg{
+    background-color: #faefef;
     border-radius: 10px;
 }
 .carousel-item{
@@ -33,6 +27,8 @@ body{
 .price{
     color: #e22121;
 }
+
+
 
 /*=======Button=========*/
 .buy-now-button{
